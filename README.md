@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
 </div>
 
-###
+### Stats:
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AlphaSweater&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
