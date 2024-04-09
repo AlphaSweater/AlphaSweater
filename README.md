@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Chad Fairlie and I'm an aspiring Software Developer.</h2>
 
-###
+### Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
