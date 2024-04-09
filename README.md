@@ -35,7 +35,7 @@
 </div>
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=AlphaSweater&theme=dracula&column=-1&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="170" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=AlphaSweater&theme=dracula&column=8&row=1&margin-w=5&margin-h=8&no-bg=false&no-frame=true&order=4" height="170" alt="trophy graph"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/AlphaSweater/AlphaSweater/output/snake.svg" alt="Snake animation" />
