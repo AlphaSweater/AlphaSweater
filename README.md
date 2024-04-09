@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋! My name is Chad Fairlie and I'm an aspiring Software Developer.</h2>
 
 ###
