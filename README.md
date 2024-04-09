@@ -36,5 +36,3 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/AlphaSweater/AlphaSweater/output/snake.svg" alt="Snake animation" />
-
-###
