@@ -1,9 +1,10 @@
 <h2 align="left">Hi 👋! My name is Chad Fairlie and I'm an aspiring Software Developer.</h2>
+
 - 🔭 I’m currently working on **an E-Commerce Website to sell Painted Rocks**
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [Website in the future](Website in the future)
+- 👨‍💻 All of my projects are available at Website in the future
 
 - ⚡ Fun fact **I am always tierd**
 
