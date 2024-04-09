@@ -35,5 +35,5 @@
   <img src="https://github-profile-trophy.vercel.app?username=AlphaSweater&theme=dracula&column=8&row=1&margin-w=5&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-### Snake:
+### Snake Thing:
 <img src="https://raw.githubusercontent.com/AlphaSweater/AlphaSweater/output/snake.svg" alt="Snake animation" />
